@@ -1,0 +1,32 @@
+#Actores
+
+
+-Heladero
+-Helado (abstracto)
+    - de naranja
+    - de limon
+    - de freza
+
+-Contenedor
+-Cliente
+-Registradora
+
+#Capacidades
+
+##Heladero
+
+*Interfaz con el cliente
+* coger helado
+* CObrar al cliente
+* Entregar el helado al cliente
+* Ingresa a la caja registradora
+
+##Cliente
+
+El cliente es su propio representante
+
+##Contenedor
+
+* Recibir helado(hasta el limite del contenedor)
+* Almacenar helado
+
