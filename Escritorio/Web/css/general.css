@@ -1,0 +1,82 @@
+body {
+	font-family: Arial, Helvetica, "Sans Serif";
+}
+
+div {
+	border: 1px solid gray;
+}
+
+#page {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#header {
+	background-image: url('../images/top_nav_bg.png');
+	background-repeat: no-repeat;
+	height: 56px;
+}
+
+#Logo {
+	margin-left: 130px;
+	box-shadow: 10px 10px 10 10 ;
+}
+
+#menu {
+	float: right;
+	margin-right: 130px;
+}
+
+#menu li {
+	display: inline;
+	margin-left: 54px;
+}
+
+#menu a {
+	text-decoration: none;
+}
+
+#content {
+	width: 980px;
+	margin: 0 auto;
+}
+
+#banner {
+	background-image: url('../images/flujo.png');
+	background-image: no-repeat;
+}
+
+#tab {
+	float: right;
+	width: 633px;
+	height:386px;
+	background-image: url('../images/El_triangol.png');
+}
+
+#tab div ¨{
+	width: 305px;
+	margin: 0 auto;
+}
+
+.StopRod {
+	clear: both;
+}
+
+#claim {
+	color: #0e218a;
+	font-size: 24pt;
+	font-width: bold;
+	text-transform: capitalize;
+}
+
+#tab div {
+	color: #777;
+}
+
+#tab p {
+	margin-left: 18px;
+}
+
+.CenteredButton{
+	text-align: center;
+}
